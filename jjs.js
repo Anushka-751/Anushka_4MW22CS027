@@ -6,8 +6,8 @@ function findMax(arr) {
 }
 
 // Example usage
-let numbers = [3, 1, 4, 1, 5, 9];
-console.log(findMax(numbers)); // Output: 9
+let numbers = [3, 1, 7, 1, 2, 10];
+console.log(findMax(numbers)); // Output: 10
 
 let emptyArray = [];
 console.log(findMax(emptyArray)); // Output: null
